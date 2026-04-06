@@ -23,7 +23,11 @@ Untuk install library FreeRTOS di Arduino IDE lakukan langkah-langkah berikut:
    <img width="750" height="151" alt="image" src="https://github.com/user-attachments/assets/03ea9037-e65c-4e28-8c2b-e8c6d3eef0ea" />
 2. Kita juga dapat mengunduh library dari GitHub, lalu menambahkan file .zip tersebut melalui menu Sketch → Include Library → Add .ZIP Library.
 3. Setelah itu, restart Arduino IDE. Library ini menyediakan beberapa contoh program yang bisa Anda temukan melalui File → Examples → FreeRTOS seperti yang ditunjukkan pada Gambar.
+
    <img width="410" height="500" alt="image" src="https://github.com/user-attachments/assets/0c3b55cd-c13b-4867-8977-f169b5c4e224" />
+
+<h2>Implementasi RTOS Menggunakan LED</h2>
+
 
 <h2></h2>
 
