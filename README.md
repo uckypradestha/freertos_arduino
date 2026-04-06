@@ -18,3 +18,26 @@ Sebelum mulai bekerja dengan RTOS, mari kita pahami terlebih dahulu apa itu task
 
 <h2>Instal Library FreeRTOS di IDE</h2>
 
+Untuk install library FreeRTOS di Arduino IDE lakukan langkah-langkah berikut:
+1. Buka Arduino IDE, lalu masuk ke menu Sketch → Include Library → Manage Libraries. Setelah itu, cari FreeRTOS dan instal library tersebut seperti yang ditunjukkan di bawah ini.
+   <img width="750" height="151" alt="image" src="https://github.com/user-attachments/assets/03ea9037-e65c-4e28-8c2b-e8c6d3eef0ea" />
+2. Kita juga dapat mengunduh library dari GitHub, lalu menambahkan file .zip tersebut melalui menu Sketch → Include Library → Add .ZIP Library.
+3. Setelah itu, restart Arduino IDE. Library ini menyediakan beberapa contoh program yang bisa Anda temukan melalui File → Examples → FreeRTOS seperti yang ditunjukkan pada Gambar.
+
+<img width="410" height="500" alt="image" src="https://github.com/user-attachments/assets/0c3b55cd-c13b-4867-8977-f169b5c4e224" />
+
+<h2></h2>
+
+<br>
+<div align="center">
+  <a href="https://github.com/uckypradestha"><img src="https://github.com/uckypradestha/assets/raw/main/social/logo-social-github.png" width="3%" alt="Ultralytics GitHub"></a>
+  <img src="https://github.com/uckypradestha/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
+  <a href="https://www.linkedin.com/uckypradestha/"><img src="https://github.com/uckypradestha/assets/raw/main/social/logo-social-linkedin.png" width="3%" alt="Ultralytics LinkedIn"></a>
+  <img src="https://github.com/uckypradestha/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
+  <a href="https://twitter.com/uckypradestha"><img src="https://github.com/uckypradestha/assets/raw/main/social/logo-social-twitter.png" width="3%" alt="Ultralytics Twitter"></a>
+  <img src="https://github.com/uckypradestha/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
+  <a href="https://www.youtube.com/@ckypradestha"><img src="https://github.com/uckypradestha/assets/raw/main/social/logo-social-youtube.png" width="3%" alt="Ultralytics YouTube"></a>
+  <img src="https://github.com/uckypradestha/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
+  <a href="https://www.tiktok.com/@pradestha"><img src="https://github.com/uckypradestha/assets/raw/main/social/logo-social-tiktok.png" width="3%" alt="Ultralytics TikTok"></a>
+  <img src="https://github.com/uckypradestha/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
+</div>
